@@ -24,7 +24,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/privateOmega/html-to-docx.git"
+    "url": "git+https://github.com/corwinstephen/fixed-html-to-docx.git"
   },
   "author": "privateOmega <privateOmega@protonmail.com>",
   "contributors": [
