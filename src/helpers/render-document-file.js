@@ -9,7 +9,7 @@ import isVText from 'virtual-dom/vnode/is-vtext';
 import { default as HTMLToVDOM } from 'html-to-vdom';
 import escape from 'escape-html';
 import sizeOf from 'image-size';
-import imageToBase64 from 'image-to-base64';
+import imageToBase64 from 'fixed-image-to-base64';
 import mimeTypes from 'mime-types';
 
 // FIXME: remove the cyclic dependency
